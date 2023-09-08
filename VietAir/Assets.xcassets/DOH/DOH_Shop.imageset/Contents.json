@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Louis-Vuitton-store-Qatar-Duty-Free-Hamad-International-Airport_shutterstock_1613332117.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Louis-Vuitton-store-Qatar-Duty-Free-Hamad-International-Airport_shutterstock_1613332117@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Louis-Vuitton-store-Qatar-Duty-Free-Hamad-International-Airport_shutterstock_1613332117@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

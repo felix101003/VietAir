@@ -1,0 +1,579 @@
+[
+    {
+        "id": 1,
+        "name": "🇸🇬 Singapore Changi Airport",
+        "iataCode": "SIN",
+        "globalRanking": 1,
+        "regionalRanking": 1,
+        "country": "Singapore",
+        "city": "Singapore",
+        "region": "Asia",
+        "numberOfTerminals": 4,
+        "numberOfRunways": 3,
+        "rating": 4.7,
+        "review": 39021,
+        "imageName": ["SIN_1","SIN_2","SIN_3"],
+        "overview": "Changi Airport (SIN), the world-renowned airport nestled in the vibrant city-state of Singapore, is a beacon of excellence in global aviation. As a premier international gateway, it has redefined the travel experience, captivating millions of passengers with its unrivaled efficiency, innovation, and commitment to customer satisfaction. Boasting state-of-the-art terminals, cutting-edge technology, and a captivating Jewel complex, Changi Airport continues to set the gold standard for airports worldwide, ensuring every journey through its gates is an unforgettable one. In 2023, Changi International Airport was awarded as the best airport in the world according to 2023 Skytrax Ranking",
+        "address": "60 Airport Boulevard , Singapore 819643",
+        "timeIdentifier": "Asia/Singapore",
+        "coordinates": {
+          "latitude": 1.3644,
+          "longitude": 103.9915
+        },
+        "destinations": [
+            {
+                "id": "1a",
+                "destName" : "Changi Jewel Complex",
+                "destImage": "SIN_2",
+                "description": "Changi Jewel Complex is a world-renowned, multi-dimensional lifestyle destination located at Singapore's Changi Airport. Opened in 2019, it serves as a vibrant nexus where travel, shopping, and entertainment seamlessly converge. This iconic architectural marvel features a stunning glass and steel dome structure housing an indoor forest with over 3,000 trees and 60,000 shrubs. The complex offers an extensive array of retail outlets, dining options, and recreational activities, making it a popular stopover for travelers and a sought-after destination for locals and tourists alike. From luxury shopping to family-friendly attractions like the Rain Vortex, the world's tallest indoor waterfall, Changi Jewel Complex provides a captivating experience for visitors of all ages."
+            },
+            {
+                "id": "1b",
+                "destName" : "Changi Walking and Bouncing Nets",
+                "destImage": "SIN_SkyNet",
+                "description": "Changi Walking and Bouncing Nets are exciting attractions at Changi Jewel Complex in Singapore. The walking net allows visitors to navigate through a net suspended high above the ground, offering thrilling views of the indoor forest and the majestic Rain Vortex waterfall. On the other hand, the bouncing nets are a series of net trampolines where both kids and adults can jump and play, providing a fun and unique experience for all. These engaging activities add an extra dimension of adventure to the already captivating Changi Jewel Complex."
+            },
+            {
+                "id": "1c",
+                "destName" : "Changi Hedge Maze",
+                "destImage": "SIN_HedgeMaze",
+                "description": "Changi Hedge Maze is an enchanting outdoor maze located within the Changi Jewel Complex at Singapore's Changi Airport. Visitors can wander through the carefully designed pathways, surrounded by lush green hedges, and enjoy the challenge of finding their way to the center or solving the maze's puzzles. It offers a delightful and interactive experience for travelers and visitors seeking a fun and engaging activity amidst the beauty of nature."
+            },
+            {
+                "id": "1d",
+                "destName" : "Changi Mirror Maze",
+                "destImage": "SIN_MirrorMaze",
+                "description": "Changi Mirror Maze is an immersive and enchanting attraction located at Singapore's Changi Airport. As its name suggests, it is a maze constructed entirely of mirrors, creating an illusion of endless corridors and pathways. Visitors are invited to navigate through the labyrinth, encountering mesmerizing reflections and optical illusions at every turn. This interactive and family-friendly experience offers a thrilling and fun-filled adventure, making it a popular stopover for travelers and an enjoyable destination for both kids and adults seeking a unique and mind-bending encounter."
+            }
+        ]
+    },
+
+    
+    {
+        "id": 2,
+        "name": "🇶🇦 Hamad International Airport",
+        "iataCode": "DOH",
+        "globalRanking": 2,
+        "regionalRanking": 1,
+        "country": "Qatar",
+        "city": "Doha",
+        "region": "Middle East",
+        "numberOfTerminals": 1,
+        "numberOfRunways": 2,
+        "rating": 4.6,
+        "review": 45309,
+        "imageName": ["DOH_1","DOH_2","DOH_3"],
+        "overview": "Doha Hamad Airport (DOH), officially known as Hamad International Airport, is a world-class aviation facility located in Doha, the capital city of Qatar. Opened in 2014, DOH Airport has rapidly become a major international hub in the Middle East, connecting passengers from various continents. Renowned for its exceptional passenger services, DOH Airport provides efficient immigration and security processes, making transit smooth and convenient. State-of-the-art technology, automated systems, and well-trained staff contribute to its reputation as one of the best airports globally.In addition to its functional excellence, DOH Airport showcases Qatar's culture and heritage through various art installations and cultural exhibits. Passengers can experience the country's traditional and contemporary artwork, adding a touch of local charm to their journey. As a premier travel destination, Doha Airport continually strives to enhance its facilities and services, reflecting Qatar's commitment to becoming a global aviation leader. With world-class amenities, efficient operations, and a touch of Arabian hospitality, Doha Airport welcomes travelers with warmth and sophistication, making it a gateway to the vibrant city of Doha and beyond.",
+        "address": "Bandara International Hamad, Doha, Qatar",
+        "timeIdentifier": "Asia/Qatar",
+        "coordinates": {
+          "latitude": 25.25995,
+          "longitude": 51.61509
+        },
+        "destinations": [
+              {
+                "id": "2a",
+                "destName" : "Doha Hamad Airport's Shopping Center",
+                "destImage": "DOH_Shop",
+                "description": "Doha Hamad Airport's Shopping Center is a modern retail haven located within Hamad International Airport in Doha, Qatar. Offering a wide variety of high-end boutiques, luxury brands, and duty-free stores, it caters to travelers seeking a premium shopping experience. With its elegant design and diverse range of products, the shopping center provides a delightful opportunity for passengers to indulge in retail therapy during their journey."
+              },
+              {
+                "id": "2b",
+                "destName" : "Al Mourjan Business Class Lounge",
+                "destImage": "DOH_Lounge",
+                "description": "Al Mourjan Business Class Lounge is an opulent and exclusive airport lounge located at Hamad International Airport in Doha, Qatar. Designed to cater to the discerning needs of business class travelers, the lounge exudes luxury and comfort. It boasts a spacious and elegantly appointed interior, offering a serene environment for relaxation or productivity. With a delectable selection of international cuisines, premium beverages, and impeccable service, Al Mourjan Business Class Lounge ensures a memorable and indulgent pre-flight experience for its privileged guests."
+              }
+        ]
+    },
+
+    
+    {
+        "id": 3,
+        "name": "🇯🇵 Haneda International Airport",
+        "iataCode": "HND",
+        "globalRanking": 3,
+        "regionalRanking": 2,
+        "country": "Japan",
+        "city": "Tokyo",
+        "region": "Asia",
+        "numberOfTerminals": 3,
+        "numberOfRunways": 4,
+        "rating": 4.3,
+        "review": 23102,
+        "imageName": ["HND_1","HND_2","HND_3"],
+        "overview": "Haneda Airport (HND), located in Tokyo, Japan, is a premier aviation facility with a rich history dating back to 1931. Its three terminals cater to both domestic and international flights, providing seamless connectivity to various destinations. Renowned for its efficiency, Haneda offers modern amenities, numerous shops, restaurants, and lounges for travelers' comfort. With its strategic location near downtown Tokyo, the airport allows quick access to the city's vibrant attractions and business districts. Its four runways ensure smooth air traffic operations, contributing to its reputation as one of the world's most efficient airports. As a crucial driver of Japan's tourism industry, Haneda Airport welcomes travelers to experience the country's cultural heritage, technological advancements, and natural wonders.",
+        "address": "Hanedakuko, Ota City, Tokyo 144-0041, Japan",
+        "timeIdentifier": "Asia/Tokyo",
+        "coordinates": {
+         "latitude": 35.54958,
+         "longitude": 139.77997
+        },
+        "destinations": [
+             {
+               "id": "3a",
+               "destName" : "Haneda Airport's Edo Market",
+               "destImage": "HND_Market",
+               "description": "Haneda Airport's Edo Market is a unique shopping and dining area that pays homage to Tokyo's historical Edo period. Visitors can experience traditional Japanese culture, taste authentic local cuisine, and explore a variety of shops offering traditional crafts and souvenirs. Culinary enthusiasts will find themselves spoiled for choice with a diverse selection of restaurants, stalls, and food vendors serving up mouthwatering authentic local cuisine. From savory sushi and delicate tempura to hearty ramen and delectable wagashi sweets, Edo Market allows you to savor the rich and diverse flavors of Japan's culinary heritage. Whether you have time for a leisurely stroll or are rushing between flights, Edo Market at Haneda Airport offers a seamless blend of traditional charm and modern convenience."
+             },
+             {
+               "id": "3b",
+               "destName" : "Observation Deck of Haneda's Airport",
+               "destImage": "HND_3",
+               "description": "The Observation Deck of Haneda Airport offers a breathtaking vantage point for aviation enthusiasts and travelers. Located in Tokyo, Japan, it provides panoramic views of the bustling airport, allowing visitors to witness the comings and goings of planes from close quarters. With its modern facilities and comfortable viewing areas, the Observation Deck offers a unique and memorable experience for those eager to watch the excitement of air travel unfold."
+             }
+        ]
+    },
+
+    
+    {
+        "id": 4,
+        "name": "🇰🇷 Incheon International Airport",
+        "iataCode": "ICN",
+        "globalRanking": 4,
+        "regionalRanking": 3,
+        "country": "South Korea",
+        "city": "Seoul",
+        "region": "Asia",
+        "numberOfTerminals": 2,
+        "numberOfRunways": 4,
+        "rating": 4.6,
+        "review": 25488,
+        "imageName": ["ICN_1","ICN_2","ICN_3"],
+        "overview": "Incheon International Airport (ICN), situated on the west coast of South Korea, is a world-class aviation facility renowned for its exceptional service and cutting-edge infrastructure. As one of the busiest airports in Asia, ICN serves as a key gateway to the vibrant city of Seoul and the entire country. Boasting state-of-the-art terminals, extensive shopping and dining options, and various entertainment facilities, the airport provides travelers with a delightful experience. Its strategic location and comprehensive connectivity contribute to its status as a vital hub for both domestic and international travel, making it a prime destination for millions of passengers each year.",
+        "address": "272 Gonghang-ro, Jung-gu, Incheon, South Korea",
+        "timeIdentifier": "Asia/Seoul",
+        "coordinates": {
+         "latitude": 37.4475,
+         "longitude": 126.4512
+        },
+        "destinations": [
+             {
+               "id": "4a",
+               "destName" : "Incheon Cultural Experience Zone",
+               "destImage": "ICN_CulturalCenter",
+               "description": "The Cultural Experience Zone at Incheon International Airport offers a captivating glimpse into Korean culture and traditions. Travelers can engage in various activities, watch traditional performances, explore handicrafts, and immerse themselves in the rich heritage of Korea. From art exhibitions to interactive experiences, this zone provides a delightful opportunity to learn and appreciate the country's vibrant cultural heritage before or after your journey."
+             },
+             {
+               "id": "4b",
+               "destName" : "Incheon Observation Deck",
+               "destImage": "ICN_ObservationDeck",
+               "description": "The ICN Observation Deck is a captivating vantage point within Incheon International Airport that provides travelers and aviation enthusiasts with breathtaking views of the bustling airport. From this elevated platform, visitors can witness the impressive comings and goings of airplanes, watch the runway activity, and enjoy the mesmerizing sight of aircraft taking off and landing. It offers a unique and memorable experience for those who wish to witness the excitement of air travel up close while waiting for their flights or during layovers."
+              }
+        ]
+    },
+
+    
+    {
+        "id": 5,
+        "name": "🇫🇷 Paris Charles de Gaulle airport",
+        "iataCode": "CDG",
+        "globalRanking": 5,
+        "regionalRanking": 1,
+        "country": "France",
+        "city": "Paris",
+        "region": "Europe",
+        "numberOfTerminals": 3,
+        "numberOfRunways": 4,
+        "rating": 3.6,
+        "review": 51151,
+        "imageName":["CDG_1","CDG_2","CDG_3"],
+        "overview": "Paris Charles de Gaulle Airport (CDG) is the largest international airport in France and one of the busiest in Europe. Located northeast of Paris, CDG serves as a major hub for both domestic and international flights, connecting travelers to destinations around the world. With its modern facilities, efficient transportation services, and a wide range of shops and restaurants, CDG offers a comfortable and convenient travel experience. As the primary gateway to the enchanting city of Paris, the airport welcomes millions of visitors each year to explore the iconic landmarks, rich culture, and timeless charm of the French capital.",
+        "address": "95700 Roissy-en-France, France",
+        "timeIdentifier": "Europe/Paris",
+        "coordinates": {
+          "latitude": 49.009724,
+          "longitude": 2.547778
+        },
+        "destinations": [
+              {
+                "id": "5a",
+                "destName" : "Airport Shopping Mall",
+                "destImage": "CDG_ShoppingMall",
+                "description": "CDG Shopping Mall, also known as Aéroville, is a modern and expansive shopping destination located near Charles de Gaulle Airport in Paris, France. This vibrant mall offers a wide range of retail stores, including international fashion brands, luxury boutiques, electronics outlets, and various dining options. With its contemporary architecture and convenient location close to the airport, CDG Shopping Mall is a popular spot for travelers and locals alike to indulge in shopping, dining, and entertainment before or after their flights."
+              },
+              {
+                "id": "5b",
+                "destName" : "Paris-Charles De Gaulle Lounge",
+                "destImage": "CDG_2",
+                "description": "The lounges at Charles de Gaulle Airport (CDG) in Paris, France, offer a luxurious and comfortable retreat for travelers. These premium spaces provide a respite from the bustling airport atmosphere, featuring amenities like comfortable seating, complimentary refreshments, and Wi-Fi access. With an array of services, including showers, workstations, and personalized assistance, CDG lounges cater to the needs of both business and leisure travelers. Whether you're looking to relax, work, or simply enjoy a quiet ambiance, these lounges ensure a pleasant and indulgent experience during your time at the airport."
+               }
+        ]
+    },
+    
+    {
+         "id": 6,
+         "name": "🇹🇷 Istanbul International Airport",
+         "iataCode": "IST",
+         "globalRanking": 6,
+         "regionalRanking": 2,
+         "country": "Turkey",
+         "city": "Istanbul",
+         "region": "Europe",
+         "numberOfTerminals": 1,
+         "numberOfRunways": 5,
+         "rating": 4.4,
+         "review": 84405,
+         "imageName": [ "IST_1","IST_2","IST_3"],
+         "overview": "Istanbul Airport (IST) is a modern international airport located on the European side of Istanbul, Turkey. With its strategic location between Europe and Asia, it serves as a major aviation hub, connecting continents and accommodating millions of passengers annually. Since its opening in October 2018, the airport has become one of the largest in the world, boasting state-of-the-art facilities, multiple terminals, and extensive runways. Passengers can enjoy a seamless and pleasant travel experience with various amenities, including dining options, duty-free shopping, and comfortable lounges. Istanbul Airport is not only a gateway for travelers but also plays a significant role in the air cargo industry, contributing to Turkey's international trade and economic growth. Its impressive infrastructure and continuous efforts for expansion and innovation reflect Turkey's determination to be at the forefront of the global aviation sector.",
+          "address": "Tayakadın, Terminal Caddesi No:1, 34283 Arnavutköy/İstanbul, Türkiye",
+         "timeIdentifier": "Europe/Istanbul",
+         "coordinates": {
+             "latitude": 41.2756,
+             "longitude": 28.7519
+         },
+         "destinations": [
+             {
+               "id": "6a",
+               "destName" : "Prayer Rooms",
+               "destImage": "IST_PrayerRoom",
+               "description": "The prayer room, located at Istanbul Airport (IST), is a serene and inclusive space designed for prayer, meditation, and reflection. It caters to travelers of various faiths and provides a tranquil environment where passengers can observe their religious practices in comfort and privacy. Equipped with essential amenities like prayer mats and ablution facilities, the prayer room offers a peaceful sanctuary amidst the bustling airport environment, allowing travelers to find spiritual solace during their journey."
+             },
+             {
+               "id": "6b",
+               "destName" : "Turkish Airlines Lounge",
+               "destImage": "IST_Lounge",
+               "description": "The Turkish Airlines Lounge at Istanbul Airport is an exquisite retreat for travelers flying with Turkish Airlines or eligible Star Alliance members. Known for its luxurious ambiance and top-notch amenities, the lounge offers a range of facilities to enhance the travel experience. Travelers can enjoy comfortable seating areas, complimentary Wi-Fi, and a selection of delicious Turkish and international cuisine. The lounge also features private relaxation rooms, shower facilities, and business centers for those seeking to unwind or catch up on work. With its attentive service and modern design, the Turkish Airlines Lounge provides a welcoming and indulgent space for passengers to relax and refresh before their flights."
+              }
+        ]
+    },
+    
+    {
+         "id": 7,
+         "name": "🇩🇪 Munich Franz Josef Strauss Airport",
+         "iataCode": "MUC",
+         "globalRanking": 7,
+         "regionalRanking": 3,
+         "country": "Germany",
+         "city": "Munich",
+         "region": "Europe",
+         "numberOfTerminals": 2,
+         "numberOfRunways": 2,
+         "rating": 4.1,
+         "review": 29630,
+         "imageName": ["MUC_1","MUC_2","MUC_3"],
+         "overview": "Munich Airport (MUC) is a prominent international airport located in Munich, Germany. Renowned for its efficiency and modern amenities, MUC serves as a vital hub connecting travelers to various destinations worldwide. With state-of-the-art facilities, diverse dining options, and excellent connectivity, it continues to be a top choice for both passengers and cargo shipments.",
+         "address": "Nordallee 25, 85356 München-Flughafen, Germany",
+         "timeIdentifier": "Europe/Berlin",
+         "coordinates": {
+             "latitude": 48.353783,
+             "longitude": 11.774603
+         },
+         "destinations": [
+             {
+               "id": "7a",
+               "destName" : "Airbräu",
+               "destImage": "MUC_Airbrau",
+               "description": "Airbräu is a unique brewery located at Munich Airport, Germany. It holds the distinction of being the world's first and only airport brewery. Airbräu serves a variety of freshly brewed beers, including traditional Bavarian styles, all brewed on-site. Besides its exceptional beer selection, the brewery offers a warm and inviting ambiance, making it a popular spot for travelers and locals alike. Visitors can enjoy a range of authentic German dishes, along with the opportunity to watch planes take off and land from the brewery's outdoor beer garden. Airbräu provides a delightful combination of traditional beer culture and aviation excitement, making it a must-visit destination for beer enthusiasts and travelers passing through Munich Airport."
+             },
+             {
+               "id": "7b",
+               "destName" : "Airport Lounge World",
+               "destImage": "MUC_3",
+               "description": "The lounge at Munich Airport (MUC) is an exclusive and tranquil space designed to offer a premium experience for travelers. Accessible to certain airline passengers, lounge members, or through special programs, it provides a comfortable retreat away from the bustling airport environment. Inside the lounge, you can enjoy amenities like cozy seating, complimentary refreshments, including snacks and beverages, as well as access to Wi-Fi and charging stations for your devices. Some lounges may also offer additional services such as showers, business centers, and dedicated staff assistance. Whether you're looking to relax, catch up on work, or simply unwind before your flight, the lounge at MUC ensures a peaceful and indulgent experience during your time at the airport."
+            }
+        ]
+    },
+    
+    {
+         "id": 8,
+         "name": "🇨🇭 Zurich International Airport",
+         "iataCode": "ZRH",
+         "globalRanking": 8,
+         "regionalRanking": 4,
+         "country": "Switzerland",
+         "city": "Zurich",
+         "region": "Europe",
+         "numberOfTerminals": 3,
+         "numberOfRunways": 3,
+         "rating": 4.4,
+         "review": 20409,
+         "imageName": ["ZRH_1","ZRH_2","ZRH_3"],
+         "overview": "Zurich Airport (ZRH) is Switzerland's largest and busiest international airport, serving as a vital transportation hub connecting travelers from around the globe to various destinations. Located in Zurich, the country's economic and financial center, ZRH plays a critical role in facilitating both domestic and international air travel. The airport is renowned for its modern and efficient infrastructure, with multiple terminals equipped to handle a significant volume of passengers and aircraft. Travelers passing through ZRH can enjoy a seamless and enjoyable experience, thanks to an array of amenities, including diverse dining options, duty-free shopping, comfortable lounges, and passenger services.",
+         "address": "Flughafenstrasse, 8058 Kloten, Switzerland",
+         "timeIdentifier": "Europe/Zurich",
+         "coordinates": {
+             "latitude": 47.4502,
+             "longitude": 8.5618
+         },
+         "destinations": [
+             {
+               "id": "8a",
+               "destName" : "Zurich Airport Observation Deck",
+               "destImage": "ZRH_ObservationDeck",
+               "description": "The observation deck at Zurich Airport (ZRH) offers aviation enthusiasts and travelers a fantastic vantage point to watch aircraft take off and land. Located within the airport, the deck provides an unobstructed view of the runways and the bustling activity on the airfield. Visitors can enjoy the thrill of seeing various airplanes from different airlines and admire the airport's operations up close. Whether you're a plane enthusiast or simply looking for a relaxing spot to enjoy the airport ambiance, the observation deck at ZRH promises an exciting and memorable experience for all."
+             },
+             {
+               "id": "8b",
+               "destName" : "Swiss Alpine Lounge",
+               "destImage": "ZRH_AlpineLounge",
+               "description": "The Swiss Alpine Lounge is a serene and inviting haven located at Zurich Airport in Switzerland. Operated by Swiss International Air Lines, the lounge embodies the charm and beauty of the Swiss Alps, offering travelers a comfortable and relaxing space to unwind before their flights. With stunning panoramic views, cozy seating areas, and a tasteful alpine-inspired decor, the lounge provides a delightful ambiance for both business and leisure travelers. Guests can enjoy a selection of refreshments, snacks, and beverages while taking advantage of amenities such as Wi-Fi, workstations, and reading materials. Whether seeking tranquility or a place to catch up on work, the Swiss Alpine Lounge promises a warm and enjoyable experience amid the bustling airport atmosphere."
+             }
+        ]
+    },
+
+
+    {
+         "id": 9,
+         "name": "🇯🇵 Narita International Airport",
+         "iataCode": "NRT",
+         "globalRanking": 9,
+         "regionalRanking": 4,
+         "country": "Japan",
+         "city": "Tokyo",
+         "region": "Asia",
+         "numberOfTerminals": 3,
+         "numberOfRunways": 2,
+         "rating": 4.2,
+         "review": 17366,
+         "imageName": ["NRT_1","NRT_2","NRT_3"],
+         "overview": "Narita International Airport (NRT) is a prominent international airport located in Tokyo, Japan. As one of the busiest airports in the country, NRT plays a vital role in connecting travelers from various corners of the world to Japan's capital city and beyond. With its modern infrastructure, multiple terminals, and convenient amenities, NRT ensures a seamless and enjoyable travel experience for passengers. The airport's strategic location and extensive connectivity make it a crucial gateway, facilitating tourism, business, and cultural exchanges for Japan.",
+         "address": "1-1 Furugome, Narita, Chiba 282-0004, Japan",
+         "timeIdentifier": "Asia/Tokyo",
+         "coordinates": {
+             "latitude": 35.7656,
+             "longitude": 140.3856
+         },
+         "destinations": [
+             {
+               "id": "9a",
+               "destName" : "ANA Guests Lounge",
+               "destImage": "NRT_Lounge",
+               "description": "All Nippon Airways (ANA) operates several lounges at NRT, including the ANA Suite Lounge and the ANA Lounge. These lounges offer premium services to ANA's premium passengers, including first-class and business-class travelers. They typically provide elegant seating areas, a selection of Japanese and international cuisine, a variety of beverages (including alcoholic options), shower facilities, and workstations with Wi-Fi."
+             },
+             {
+               "id": "9b",
+               "destName" : "Narita Observation Deck",
+               "destImage": "NRT_ObservationDeck",
+               "description": "The Observation Deck at Narita International Airport (NRT) offers aviation enthusiasts and travelers a captivating view of aircraft movements and the bustling airport surroundings. Situated in Tokyo, Japan, this vantage point allows visitors to witness takeoffs, landings, and the busy tarmac activity up close. The deck provides an excellent opportunity for plane spotting and photography, with designated areas for optimal viewing. Whether you're a fan of aviation or simply seeking a unique perspective on air travel, the NRT Observation Deck offers an engaging and memorable experience during your time at the airport."
+             }
+        ]
+    },
+
+
+    {
+         "id": 10,
+         "name": "🇪🇸 Adolfo Suárez Madrid–Barajas Airport",
+         "iataCode": "MAD",
+         "globalRanking": 10,
+         "regionalRanking": 5,
+         "country": "Spain",
+         "city": "Madrid",
+         "region": "Europe",
+         "numberOfTerminals": 4,
+         "numberOfRunways": 4,
+         "rating": 4.0,
+         "review": 21421,
+         "imageName": ["MAD_1","MAD_2","MAD_3"],
+         "overview": "Madrid Barajas Airport (MAD) is Spain's primary international gateway, serving the bustling capital city of Madrid. With its modern facilities, efficient services, and strategic location, Madrid Airport offers a seamless travel experience for millions of passengers from around the world. The airport's multiple terminals house various amenities, including shops, restaurants, and lounges, ensuring travelers' comfort and convenience. As a major hub for both domestic and international flights, MAD plays a crucial role in promoting tourism, business, and cultural exchanges in Spain. Its continued prominence in the global aviation landscape reinforces its significance in connecting the country with the rest of the world.",
+         "address": "Av de la Hispanidad, 28042 Madrid, Spain",
+         "timeIdentifier": "Europe/Madrid",
+         "coordinates": {
+             "latitude": 40.4918,
+             "longitude": -3.5690
+         },
+         "destinations": [
+                 {
+                   "id": "10a",
+                   "destName" : "Cibeles Lounge",
+                   "destImage": "MAD_Cibeles",
+                   "description": "The Cibeles Lounge is a premium relaxation haven nestled within the Adolfo Suárez Madrid-Barajas Airport (MAD). Named after the iconic Cibeles Fountain in Madrid, Spain, this elegant lounge offers travelers a tranquil escape from the airport's bustling atmosphere. With its contemporary design and comfortable seating, the lounge provides a serene ambiance for guests to unwind before their flights. Travelers can enjoy an array of amenities, including refreshments, snacks, Wi-Fi access, and business facilities. Whether seeking a moment of quiet or a productive space to catch up on work, the Cibeles Lounge offers a refined and enjoyable experience for passengers at MAD airport."
+                 },
+                 {
+                   "id": "10b",
+                   "destName" : "Esenza Spa",
+                   "destImage": "MAD_EsenzaSpa",
+                   "description": "Esenza Spa at Adolfo Suárez Madrid-Barajas Airport (MAD) offers travelers a tranquil retreat amidst the bustling airport atmosphere. This oasis of relaxation provides a range of spa and wellness services, including massages, beauty treatments, and therapeutic experiences. With a serene ambiance and skilled therapists, Esenza Spa invites guests to unwind and rejuvenate before their flights. Whether you're seeking a quick refresh or a more indulgent pampering session, the spa's luxurious offerings provide a soothing escape, allowing you to leave the stresses of travel behind and emerge feeling refreshed and revitalized."
+                }
+        ]
+    },
+
+
+    {
+         "id": 11,
+         "name": "🇩🇰 Copenhagen International Airport",
+         "iataCode": "CPH",
+         "globalRanking": 14,
+         "regionalRanking": 9,
+         "country": "Denmark",
+         "city": "Copenhagen",
+         "region": "Europe",
+         "numberOfTerminals": 3,
+         "numberOfRunways": 3,
+         "rating": 4.1,
+         "review": 14581,
+         "imageName": ["CPH_1","CPH_2","CPH_3"],
+         "overview": "Copenhagen Airport (CPH) is Denmark's largest and busiest international airport, serving as a vital gateway to the vibrant capital city of Copenhagen. With its modern facilities, efficient services, and strategic location, CPH offers a seamless travel experience for millions of passengers from around the world. The airport's multiple terminals provide a wide range of amenities, including shopping, dining, and lounges, ensuring travelers' comfort and convenience. As a major transportation hub, Copenhagen Airport plays a crucial role in connecting Denmark to various destinations worldwide, fostering tourism, business, and cultural exchanges in the region. Its continued prominence in the global aviation landscape underscores its significance as a key player in promoting Denmark's connectivity and economic growth.",
+         "address": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
+         "timeIdentifier": "Europe/Copenhagen",
+         "coordinates": {
+             "latitude": 55.6296,
+             "longitude": 12.6493
+         },
+         "destinations": [
+             {
+               "id": "11a",
+               "destName" : "Eventyr Lounge",
+               "destImage": "CPH_Lounge",
+               "description": "The Eventyr Lounge at Copenhagen Airport (CPH) offers a tranquil and modern escape for travelers. With its Scandinavian design and comfortable furnishings, the lounge provides a serene atmosphere to relax before your flight. Guests can enjoy a variety of amenities, including refreshments, snacks, and beverages, as well as access to Wi-Fi, workstations, and charging stations. The lounge's inviting ambiance, combined with its convenient location within the airport, makes it an ideal space for both leisure and business travelers to unwind and recharge."
+             },
+             {
+               "id": "11b",
+               "destName" : "Gorm’s Restaurant",
+               "destImage": "CPH_Restaurant",
+               "description": "Gorm's is a renowned restaurant located at Copenhagen Airport (CPH) in Denmark. Specializing in artisanal, gourmet pizzas, Gorm's offers travelers a delightful culinary experience with its handcrafted creations. The restaurant prides itself on using high-quality, locally sourced ingredients to craft their unique and delicious pizza offerings. With a cozy and inviting atmosphere, Gorm's provides a welcoming space for passengers to enjoy fresh, flavorful pizzas made to order. Whether you're looking for a quick bite or a leisurely meal, Gorm's restaurant at CPH promises a taste of authentic Danish flavors in a convenient airport setting."
+             }
+         ]
+    },
+
+
+    {
+         "id": 12,
+         "name": "🇯🇵 Kansai International Airport",
+         "iataCode": "KIX",
+         "globalRanking": 15,
+         "regionalRanking": 5,
+         "country": "Japan",
+         "city": "Osaka",
+         "region": "Asia",
+         "numberOfTerminals": 2,
+         "numberOfRunways": 2,
+         "rating": 4.1,
+         "review": 10997,
+         "imageName": ["KIX_1","KIX_2","KIX_3"],
+         "overview": "Kansai International Airport (KIX) is a modern international airport located in Osaka, Japan. Situated on a man-made island in Osaka Bay, the airport is renowned for its innovative engineering and efficient operations. With multiple terminals providing various amenities, including shops, restaurants, and lounges, KIX ensures a comfortable and convenient experience for travelers. As a major gateway to the Kansai region, the airport plays a vital role in connecting Japan to the world, fostering tourism, trade, and cultural exchanges. Its strategic location and extensive flight network make it an essential hub for both domestic and international travel. Kansai International Airport continues to be a symbol of Japan's commitment to progress and excellence in the aviation industry.",
+         "address": "1 Senshukukokita, Izumisano, Osaka 549-0001, Japan",
+         "timeIdentifier": "Asia/Tokyo",
+         "coordinates": {
+             "latitude": 34.4273,
+             "longitude": 135.2441
+         },
+         "destinations": [
+             {
+               "id": "12a",
+               "destName" : "Kansai International Airport Observation Hall Sky View",
+               "destImage": "KIX_ObservationHall",
+               "description": "The KIX Observation Hall is a captivating space situated at Kansai International Airport (KIX) in Osaka, Japan. This hall provides an ideal vantage point for aviation enthusiasts and travelers to witness the dynamic operations of the airport. With expansive windows overlooking the runways and aircraft movements, visitors can immerse themselves in the excitement of air travel. The Observation Hall offers a unique opportunity to observe planes taking off, landing, and taxiing while enjoying a comfortable and inviting environment. Whether you're an aviation enthusiast or simply looking to enjoy the captivating view, the KIX Observation Hall offers a memorable experience that adds a touch of adventure to your time at the airport."
+             },
+             {
+               "id": "12b",
+               "destName" : "Sojibo Restaurant",
+               "destImage": "KIX_Sojibo",
+               "description": "Sojibo Restaurant at Kansai International Airport (KIX) is a culinary gem that offers a delectable journey into authentic Japanese flavors. Known for its commitment to traditional soba (buckwheat noodles) craftsmanship, Sojibo treats diners to a genuine taste of Japan's culinary heritage. The restaurant's elegant yet comfortable setting provides the perfect backdrop for savoring artfully crafted soba dishes, tempura, and other Japanese delicacies. With its emphasis on quality ingredients and skillful preparation, Sojibo Restaurant at KIX presents a memorable dining experience that captures the essence of Japanese cuisine, making it an ideal stop for travelers seeking an authentic culinary adventure before their flights."
+             }
+        ]
+    },
+
+
+    {
+         "id": 13,
+         "name": "🇦🇪 Dubai International Airport",
+         "iataCode": "DXB",
+         "globalRanking": 17,
+         "regionalRanking": 2,
+         "country": "UAE",
+         "city": "Dubai",
+         "region": "Middle East",
+         "numberOfTerminals": 3,
+         "numberOfRunways": 2,
+         "rating": 4.6,
+         "review": 77915,
+         "imageName": ["DXB_1","DXB_2","DXB_3"],
+         "overview": "Dubai International Airport (DXB) is a world-renowned international airport located in Dubai, United Arab Emirates. As one of the busiest airports globally, DXB serves as a crucial hub connecting travelers from various corners of the world. The airport boasts modern and sophisticated infrastructure, offering a seamless travel experience for millions of passengers annually. With multiple terminals equipped with a wide range of amenities, including dining options, shopping, and lounges, DXB caters to the diverse needs of travelers. Dubai International Airport is not only a gateway to the UAE but also a major transit point between continents, making it a preferred choice for airlines and passengers seeking convenient connections.",
+         "address": "PO Box 2525, Dubai, United Arab Emirates",
+         "timeIdentifier": "Asia/Dubai",
+         "coordinates": {
+             "latitude": 25.2532,
+             "longitude": 55.3657
+         },
+         "destinations": [
+             {
+               "id": "13a",
+               "destName" : "Zen Garden",
+               "destImage": "DXB_ZenGarden",
+               "description": "The Zen Garden at Dubai International Airport (DXB) is a peaceful oasis nestled within the bustling airport environment. This serene retreat offers travelers a moment of calm and relaxation amidst the travel hub's activity. Characterized by its tranquil setting, soothing greenery, and serene water features, the Zen Garden provides an ideal space for passengers to escape the hustle and bustle of their journey. Whether you're seeking a quiet spot to reflect, meditate, or simply take a breath, the Zen Garden offers a refreshing and rejuvenating experience before or after your flight."
+             },
+             {
+               "id": "13b",
+               "destName" : "Emirates Business Class Lounge",
+               "destImage": "DXB_Lounge",
+               "description": "The Emirates Lounge at Dubai International Airport (DXB) is a luxurious and sophisticated retreat exclusively designed for Emirates passengers. Reflecting the airline's commitment to excellence, the lounge offers a premium experience with elegant surroundings and a range of amenities. Travelers can relax in comfortable seating areas, enjoy gourmet dining options, and unwind with a selection of beverages. The lounge provides business facilities, Wi-Fi, and charging stations for those needing to work or stay connected. With attentive service and a tranquil atmosphere, the Emirates Lounge at DXB ensures a seamless and indulgent pre-flight experience for passengers awaiting their Emirates flights."
+              }
+         ]
+    },
+
+
+    {
+         "id": 14,
+         "name": "🇦🇺 Melbourne International Airport",
+         "iataCode": "MEL",
+         "globalRanking": 19,
+         "regionalRanking": 1,
+         "country": "Australia",
+         "city": "Melbourne",
+         "region": "Australia/Pacific",
+         "numberOfTerminals": 4,
+         "numberOfRunways": 2,
+         "rating": 3.8,
+         "review": 11141,
+         "imageName": ["MEL_1","MEL_2","MEL_3"],
+         "overview": "Melbourne Airport (MEL), also known as Tullamarine Airport, is a prominent international airport serving Melbourne, Australia. As the second busiest airport in the country, MEL plays a vital role in connecting travelers from around the world to this vibrant city and the wider region of Victoria. The airport is equipped with modern facilities and efficient services, ensuring a smooth and enjoyable travel experience for millions of passengers each year. With multiple terminals offering a variety of amenities, including dining options, shopping, and passenger services, MEL caters to the diverse needs of travelers.",
+         "address": "Arrival Dr, Melbourne Airport VIC 3045, Australia",
+         "timeIdentifier": "Australia/Melbourne",
+         "coordinates": {
+             "latitude": -37.6696,
+             "longitude": 144.8419
+         },
+        "destinations": [
+        {
+            "id": "14a",
+            "destName" : "Qantas Business Lounge",
+            "destImage": "MEL_Lounge",
+            "description": "The Qantas Business Lounge at Melbourne Airport (MEL) is a premium retreat designed to cater to the needs of business travelers and passengers seeking comfort and relaxation. With its contemporary and sophisticated design, the lounge offers a refined atmosphere where guests can unwind or be productive. Enjoy spacious seating, complimentary Wi-Fi, and a variety of culinary offerings, including a selection of premium beverages. The lounge provides a range of amenities, from workstations and charging points to shower facilities, ensuring a seamless and enjoyable pre-flight experience. Whether you're looking to catch up on work, indulge in gourmet treats, or simply relax, the Qantas Business Lounge at MEL offers a luxurious haven within the airport."
+            },
+            {
+            "id": "14b",
+            "destName" : "Melbourne Airport Shopping",
+            "destImage": "MEL_Shopping",
+            "description": "Shopping at Melbourne Airport (MEL) offers a diverse and exciting experience for travelers. The airport features a range of shops, from international luxury brands to local boutiques, where passengers can find fashion, accessories, electronics, cosmetics, and souvenirs. With a variety of duty-free options and specialty stores, shopping at MEL allows travelers to explore and purchase a wide array of products. Whether you're looking for last-minute gifts or simply indulging in retail therapy, Melbourne Airport's shopping scene caters to different tastes and preferences, making it a vibrant and convenient destination for those seeking to shop before their journey."
+            }
+        ]
+    },
+
+
+   {
+         "id": 15,
+         "name": "🇨🇦 Vancouver International Airport",
+         "iataCode": "YVR",
+         "globalRanking": 20,
+         "regionalRanking": 2,
+         "country": "Canada",
+         "city": "Vancouveri",
+         "region": "North America",
+         "numberOfTerminals": 3,
+         "numberOfRunways": 3,
+         "rating": 4.2,
+         "review": 12939,
+         "imageName": ["YVR_1","YVR_2","YVR_3"],
+         "overview": "Vancouver, Canada. As one of the busiest airports in the country, YVR serves as a vital gateway connecting travelers from around the world to the beautiful city of Vancouver and its surrounding regions. The airport is known for its modern facilities, efficient services, and stunning architecture. With multiple terminals offering diverse amenities, including shops, restaurants, and lounges, YVR ensures a comfortable and convenient travel experience for passengers. Vancouver International Airport plays a crucial role in promoting tourism, trade, and cultural exchanges in the region. Its strategic location on the West Coast of Canada makes it an ideal entry point for both domestic and international travelers.",
+         "address": "3211 Grant McConachie Way, Richmond, BC V7B 0A4, Canada",
+         "timeIdentifier": "America/Vancouver",
+         "coordinates": {
+             "latitude": 49.1947,
+             "longitude": -123.1792
+         },
+         "destinations": [
+             {
+               "id": "15a",
+               "destName" : "Public Art Installations",
+               "destImage": "YVR_ArtInstallation",
+               "description": "The art installations at Vancouver International Airport (YVR) create a captivating and culturally enriching environment for travelers. Showcasing a diverse array of sculptures, murals, and interactive pieces, these installations transform the airport into a vibrant gallery of artistic expression. Passengers are treated to a visual journey that reflects the beauty of British Columbia's landscapes, indigenous heritage, and contemporary creativity. These art installations add depth and character to the airport, offering moments of reflection and inspiration amidst the travel experience at YVR."
+             },
+             {
+               "id": "15b",
+               "destName" : "Vancouver Airport Aquarium",
+               "destImage": "YVR_Aquarium",
+               "description": "The Aquarium at YVR, located within Vancouver International Airport in Canada, offers a captivating underwater experience for travelers. This unique attraction features a mesmerizing display of marine life, including colorful fish, vibrant coral reefs, and other aquatic species, all housed within a tranquil and beautifully designed environment. The aquarium provides a moment of wonder and relaxation as passengers pass through the airport, allowing them to connect with the ocean's beauty and diversity before their journeys. It's a delightful opportunity to take a brief escape into the underwater world while in transit at YVR."
+              }
+           ]
+       }
+]

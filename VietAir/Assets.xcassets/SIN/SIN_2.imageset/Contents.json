@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "hsbc-rain-vortex-1670x940.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "hsbc-rain-vortex-1670x940@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "hsbc-rain-vortex-1670x940@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

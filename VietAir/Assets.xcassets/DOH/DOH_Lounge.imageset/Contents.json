@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "63bcfba0d9984551b9634e11dd799465-qatar-al-mourjan-business-lounge-lounge-wide.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "63bcfba0d9984551b9634e11dd799465-qatar-al-mourjan-business-lounge-lounge-wide@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "63bcfba0d9984551b9634e11dd799465-qatar-al-mourjan-business-lounge-lounge-wide@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
